@@ -11,4 +11,4 @@
 
  guilherme.gimenes07
 
-![](<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/IsDjNQPc4weWPEwhWm/video" width="480"></iframe></div>)
+![](https://giphy.com/clips/bestfriends-cat-cats-kitty-IsDjNQPc4weWPEwhWm)
